@@ -1,4 +1,4 @@
-package mathematics.vector.euclidean.vector;
+package mathematics.vector.euclidean.vector.zero;
 
 import cucumber.api.java.en.Given;
 import cucumber.api.java.en.Then;
